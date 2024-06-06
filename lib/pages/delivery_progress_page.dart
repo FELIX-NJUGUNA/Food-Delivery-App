@@ -1,4 +1,3 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:food_delivery_app/components/my_receipt.dart';
 import 'package:food_delivery_app/database/firestore.dart';
